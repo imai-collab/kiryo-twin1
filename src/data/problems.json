@@ -2,301 +2,301 @@
   {
     "id": 1,
     "title": "第1問",
-    "description": "ファイルから追加された問題です。 (Synced: 2026-05-03T13:50)",
-    "initialSfen": "6+B2/8k/7gp/9/9/9/9/9/9 b GN 1"
+    "description": "第1問 【問題図は☗１四歩まで】",
+    "initialSfen": "4B4/8l/8k/8P/7R1/9/9/9/9 b rb4g4s4n3l17p 1"
   },
   {
     "id": 2,
     "title": "第2問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6+B2/8k/7g1/9/9/9/9/9/9 b GG 1"
+    "description": "第2問 【問題図は☗１四歩まで】",
+    "initialSfen": "9/8l/6S1k/8P/7Lp/9/9/9/9 b 2r2b4g3s4n2l16p 1"
   },
   {
     "id": 3,
     "title": "第3問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6s1l/8k/6RPp/9/9/9/9/9/9 b Gr2b3g3s4n3l16p 1"
+    "description": "第3問 【問題図は☗１四歩まで】",
+    "initialSfen": "9/8p/6+Blk/8P/6R2/9/9/9/9 b rb4g4s4n3l16p 1"
   },
   {
     "id": 4,
     "title": "第4問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6g1l/8k/6RLp/6sP1/9/9/9/9/9 b Sr2b3g2s4n2l16p 1"
+    "description": "第4問 【問題図は☗１三歩まで】",
+    "initialSfen": "8s/8k/8P/7Lp/7L1/9/9/9/9 b 2r2b4g3s4n2l16p 1"
   },
   {
     "id": 5,
     "title": "第5問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7k1/7g1/6+B2/9/9/9/9/9/9 b RG 1"
+    "description": "第5問 【問題図は☗５二歩まで】",
+    "initialSfen": "3sks3/4P4/4+P4/4N4/9/9/9/9/9 w 2r2b4g2s3n4l16p 1"
   },
   {
     "id": 6,
     "title": "第6問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/7gk/6+B2/9/9/9/9/9/9 b RS 1"
+    "description": "第6問 【問題図は☗５二歩まで】",
+    "initialSfen": "3sks3/3rPr3/4+P4/4N4/9/9/9/9/9 w N2b4g2s2n4l16p 1"
   },
   {
     "id": 7,
     "title": "第7問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6k2/6g2/5+B1P1/9/9/9/9/9/9 b 2S2rb3g2s4n4l17p 1"
+    "description": "第7問 【問題図は☗２三歩まで】",
+    "initialSfen": "7s1/5S1k1/7P1/6Lp1/6r1L/9/9/9/9 w r2b4g2s4n2l16p 1"
   },
   {
     "id": 8,
     "title": "第8問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6k2/9/5P+b+B1/9/9/9/9/9/9 b 2S2r4g2s4n4l17p 1"
+    "description": "第8問 【問題図は☗１三歩成まで】",
+    "initialSfen": "6+b2/6B1k/6N1+P/9/6N2/9/9/9/9 b 2r4g4s2n4l17p 1"
   },
   {
     "id": 9,
     "title": "第9問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "8k/6B1l/7+r1/7B1/9/9/9/9/9 b Gr3g4s4n3l18p 1"
+    "description": "第9問 【問題図は☗１二歩成まで】",
+    "initialSfen": "8k/5+r1g+P/7+R1/9/9/9/9/9/9 b G2b2g4s4n4l17p 1"
   },
   {
     "id": 10,
     "title": "第10問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6k2/9/5+B1+r1/7B1/9/9/9/9/9 b Gr3g4s4n4l18p 1"
+    "description": "第10問 【問題図は☗１三歩まで】",
+    "initialSfen": "6Bnl/8k/7pP/9/9/9/9/9/9 w G2rb3g4s3n3l16p 1"
   },
   {
     "id": 11,
     "title": "第11問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7k1/6+b2/6Bp1/5R3/9/9/9/9/9 b G 1"
+    "description": "第11問 【問題図は☗１三歩まで】",
+    "initialSfen": "8l/7gk/6+R1P/9/9/9/9/9/9 b Gr2b2g4s4n3l17p 1"
   },
   {
     "id": 12,
     "title": "第12問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7G1/6+b1k/9/5+R3/4B4/9/9/9/9 b - 1"
+    "description": "第12問 【問題図は☗１三歩まで】",
+    "initialSfen": "8r/6Bsk/8P/7R1/9/9/9/9/9 b b4g3s4n4l17p 1"
   },
   {
     "id": 13,
     "title": "第13問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6kn1/6g2/6B2/9/9/9/9/9/9 b GS 1"
+    "description": "第13問 【問題図は☗１五歩まで】",
+    "initialSfen": "9/9/6s2/8k/6+B1P/7L1/9/9/9 w 2rb4g3s4n3l17p 1"
   },
   {
     "id": 14,
     "title": "第14問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6kn1/6g2/6B2/9/9/9/9/9/9 b GN 1"
+    "description": "第14問 【問題図は☗１五歩まで】",
+    "initialSfen": "9/9/7Rn/8k/6b1P/7R1/8S/9/9 w b4g3s3n4l17p 1"
   },
   {
     "id": 15,
     "title": "第15問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7R1/8k/6+b2/8S/9/9/9/9/9 b Grb3g3s4n4l18p 1"
+    "description": "第15問 【問題図は☗１二歩まで】",
+    "initialSfen": "7nk/7bP/8r/7N1/9/9/9/9/9 b Nrb4g4sn4l17p 1"
   },
   {
     "id": 16,
     "title": "第16問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7Rl/8k/6b1p/9/9/9/9/9/9 b GNrb3g4s3n3l17p 1"
+    "description": "第16問 【問題図は☗１三歩成まで】",
+    "initialSfen": "9/8k/8+P/9/8L/9/9/9/9 w G2r2b3g4s4n3l17p 1"
   },
   {
     "id": 17,
     "title": "第17問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/6S+bk/7R1/9/9/9/9/9/9 b Srb4g2s4n4l18p 1"
+    "description": "第17問 【問題図は☗２二歩成まで】",
+    "initialSfen": "7nk/6+P+Pl/8b/9/8N/9/9/9/9 w 2rb4g4s2n3l16p 1"
   },
   {
     "id": 18,
     "title": "第18問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/6B+bk/9/6sR1/9/9/9/9/9 b Sr4g2s4n4l18p 1"
+    "description": "第18問 【問題図は☗４二歩成まで】",
+    "initialSfen": "6p2/4+B+Pk2/6s2/6P2/7Lb/6N2/9/9/9 b 2r4g3s3n3l15p 1"
   },
   {
     "id": 19,
     "title": "第19問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7R1/7bk/9/7P1/9/9/9/9/9 b Rb4g4s4n4l17p 1"
+    "description": "第19問 【問題図は☗３二と引まで】",
+    "initialSfen": "7nl/5+P+Pkp/7p1/6r2/6rN1/9/9/9/9 w N2b4g4sn3l14p 1"
   },
   {
     "id": 20,
     "title": "第20問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7+Rn/9/7sk/9/7P1/9/9/9/9 b R2b4g3s3n4l17p 1"
+    "description": "第20問 【問題図は☗２二歩まで】",
+    "initialSfen": "5+P1kl/6rP1/7S1/9/9/9/9/9/9 w Nr2b4g3s3n3l16p 1"
   },
   {
     "id": 21,
     "title": "第21問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7R1/6B2/8k/7g1/8p/9/9/9/9 b Lrb3g4s4n3l17p 1"
+    "description": "第21問 【問題図は☗２一歩成まで】",
+    "initialSfen": "7+Pk/3+rR4/7S1/9/9/9/9/9/9 w 2b4g3s4n4l17p 1"
   },
   {
     "id": 22,
     "title": "第22問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7+R1/6B2/8k/7g1/9/9/9/9/9 b Nrb3g4s3n4l18p 1"
+    "description": "第22問 【問題図は☗１三歩まで】",
+    "initialSfen": "6+b1l/6S1k/7LP/8S/9/9/9/9/9 w 2rb4g2s4n2l17p 1"
   },
   {
     "id": 23,
     "title": "第23問",
-    "description": "本の123番。少し難しめかも。",
-    "initialSfen": "7kl/6g2/8R/5+b1N1/9/9/9/9/9 b Grb2g4s3n3l18p 1"
+    "description": "第23問 【問題図は☗２三歩まで】",
+    "initialSfen": "6nnl/6Skp/7P1/6R1P/9/9/9/9/9 w r2b4g3s2n3l15p 1"
   },
   {
     "id": 24,
     "title": "第24問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "8k/6sg1/6R2/6N2/9/9/9/9/9 b G 1"
+    "description": "第24問 【問題図は☗１二とまで】",
+    "initialSfen": "7sS/8+P/7Sk/9/7L1/9/9/9/9 w 2r2b4gs4n3l17p 1"
   },
   {
     "id": 25,
     "title": "第25問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/8k/6Sp1/8p/9/9/9/9/9 b R 1"
+    "description": "第25問 【問題図は☗１二歩まで】",
+    "initialSfen": "7gk/8P/7+R1/9/9/9/9/9/9 b Gr2b2g4s4n4l17p 1"
   },
   {
     "id": 26,
     "title": "第26問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/9/6Spk/8p/9/9/9/9/9 b B 1"
+    "description": "第26問 【問題図は☗１二歩まで】",
+    "initialSfen": "6spk/8P/6G2/5B1P1/9/9/9/9/9 b 2rb3g3s4n4l15p 1"
   },
   {
     "id": 27,
     "title": "第27問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "5g1k1/9/5p2S/9/9/9/9/9/9 b R 1"
+    "description": "第27問 【問題図は☗１二歩まで】",
+    "initialSfen": "8k/7nP/6R2/7N1/9/9/9/9/9 b r2b4g4s2n4l17p 1"
   },
   {
     "id": 28,
     "title": "第28問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7kl/9/7S1/9/9/9/9/9/9 b B2rb4g3s4n3l18p 1"
+    "description": "第28問 【問題図は☗１三歩まで】",
+    "initialSfen": "7gl/5+BP1k/5R2P/6p1p/9/9/9/9/9 w rb3g4s4n3l14p 1"
   },
   {
     "id": 29,
     "title": "第29問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/8k/9/7Ls/9/9/9/9/9 b Rr2b4g3s4n3l18p 1"
+    "description": "第30問 【問題図は☗１三歩まで】",
+    "initialSfen": "8l/6Ppk/6L1P/7+P1/5r3/9/9/9/9 w r2b4g4s4n2l14p 1"
   },
   {
     "id": 30,
     "title": "第30問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "5gk2/9/6S2/9/9/9/9/9/9 b B 1"
+    "description": "第31問 【問題図は☗１三歩まで】",
+    "initialSfen": "4R+L2l/7pk/8P/7+P1/9/4r4/9/9/9 w 2b4g4s4n2l15p 1"
   },
   {
     "id": 31,
     "title": "第31問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7R1/9/8k/8p/9/9/9/9/9 b Brb4g4s4n4l17p 1"
+    "description": "第33問 【問題図は☗２一歩成まで】",
+    "initialSfen": "8l/6R1k/6+P1p/5b3/9/9/9/9/9 w rb4g4s4n3l15p 1"
   },
   {
     "id": 32,
     "title": "第32問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7R1/8l/8k/9/9/9/9/9/9 b Brb4g4s4n3l18p 1"
+    "description": "第36問 【問題図は☗３三歩成まで】",
+    "initialSfen": "7nl/8k/6+P2/9/5+B3/9/9/9/9 b 2rb4g4s3n3l17p 1"
   },
   {
     "id": 33,
     "title": "第33問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6g1k/9/7S1/9/9/9/9/9/9 b L2r2b3g3s4n3l18p 1"
+    "description": "第37問 【問題図は☗２四歩まで】",
+    "initialSfen": "9/8+P/9/7Pk/9/6+BL1/9/9/9 w 2rb4g4s4n3l16p 1"
   },
   {
     "id": 34,
     "title": "第34問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "5+B1nl/7k1/6p2/9/9/9/9/9/9 b L 1"
+    "description": "第38問 【問題図は☗１三歩成まで】",
+    "initialSfen": "7gn/8k/8+P/7P1/8N/8L/9/9/9 w 2r2b3g4s2n3l16p 1"
   },
   {
     "id": 35,
     "title": "第35問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "8k/7R1/6SP1/9/9/9/9/9/9 b r2b4g3s4n4l17p 1"
+    "description": "第39問 【問題図は☗２一歩成まで】",
+    "initialSfen": "7+Pk/9/6BS1/5b3/9/9/9/9/9 b 2r4g3s4n4l17p 1"
   },
   {
     "id": 36,
     "title": "第36問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/7Bk/6S2/9/9/9/9/9/9 b G2rb3g3s4n4l18p 1"
+    "description": "第44問 【問題図は☗１三香まで】",
+    "initialSfen": "6s2/8k/8L/7LB/9/9/9/9/9 w 2rb4g3s4n2l18p 1"
   },
   {
     "id": 37,
     "title": "第37問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7nl/9/7Bk/6S1p/9/9/9/9/9 b G2rb3g3s3n3l17p 1"
+    "description": "第45問 【問題図は☗１三香まで】",
+    "initialSfen": "6s1k/9/7+PL/6r2/9/9/9/9/9 w r2b4g3s4n3l17p 1"
   },
   {
     "id": 38,
     "title": "第38問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6bnl/8k/6pR1/6S1p/9/9/9/9/9 b Grb3g3s3n3l16p 1"
+    "description": "第46問 【問題図は☗３二香まで】",
+    "initialSfen": "5pkl1/6L1l/5+P1pp/5P3/9/9/9/9/9 b B2rb4g4s4nl13p 1"
   },
   {
     "id": 39,
     "title": "第39問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/6sRl/6G1k/7pp/9/9/9/9/9 b Sr2b3g2s4n3l16p 1"
+    "description": "第48問 【問題図は☗１三香まで】",
+    "initialSfen": "8k/5+R3/8L/8p/9/9/9/9/9 b r2b4g4s4n3l17p 1"
   },
   {
     "id": 40,
     "title": "第40問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7R1/7Gl/8k/6bpp/9/9/9/9/9 b Srb3g3s4n3l16p 1"
+    "description": "第49問 【問題図は☗２二香まで】",
+    "initialSfen": "5lSks/7L1/6G2/9/6N2/9/9/9/9 w 2r2b3g2s3n2l18p 1"
   },
   {
     "id": 41,
     "title": "第41問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7r1/6G1k/7pB/8P/9/9/9/9/9 b Lrb3g4s4n3l16p 1"
+    "description": "第50問 【問題図は☗２二香成まで】",
+    "initialSfen": "6g1n/6+B+Lk/8p/9/9/6N2/9/9/9 w 2rb3g4s2n3l17p 1"
   },
   {
     "id": 42,
     "title": "第42問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "4r3k/6+R1B/9/9/9/9/9/9/9 b Lb4g4s4n3l18p 1"
+    "description": "第34問 【問題図は☗１二歩まで】",
+    "initialSfen": "4r3k/6+RPP/8p/9/9/9/9/9/9 w 2b4g4s4n4l15p 1"
   },
   {
     "id": 43,
     "title": "第43問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "7nl/6g1k/6G1p/7L1/9/9/9/9/9 b N2r2b2g4s2n2l17p 1"
+    "description": "第40問 【問題図は☗１二歩まで】",
+    "initialSfen": "8k/6+P1P/9/9/8S/8L/9/9/9 w 2r2b4g3s4n3l16p 1"
   },
   {
     "id": 44,
     "title": "第44問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6+rnl/6b1k/6G1p/7L1/9/9/9/9/9 b Nrb3g4s2n2l17p 1"
+    "description": "第43問 【問題図は☗１二歩まで】",
+    "initialSfen": "7sk/6+R1P/9/8p/4G4/3B5/9/9/4r4 w b3g3s4n4l17p 1"
   },
   {
     "id": 45,
     "title": "第45問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/8l/6S1k/7Lb/9/9/9/9/9 b G2rb3g3s4n2l18p 1"
+    "description": "第35問 【問題図は☗２二歩まで】",
+    "initialSfen": "5RBkl/6pP1/7gP/5r3/9/9/9/9/9 w b3g4s4n3l15p 1"
   },
   {
     "id": 46,
     "title": "第46問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "9/6+b1l/6S1k/7Rp/9/9/9/9/9 b Grb3g3s4n3l17p 1"
+    "description": "第41問 【問題図は☗２三歩まで】",
+    "initialSfen": "5+P2l/5RSkr/6pPp/7g1/9/9/9/9/9 b 2b3g3s4n3l14p 1"
   },
   {
     "id": 47,
     "title": "第47問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6r1k/8B/9/7N1/9/9/9/9/9 b Grb3g4s3n4l18p 1"
+    "description": "第29問 【問題図は☗１三歩まで】",
+    "initialSfen": "9/5rP1k/5+R2P/5B3/4b2+p1/9/9/9/9 w 4g4s4n4l15p 1"
   },
   {
     "id": 48,
     "title": "第48問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "5g1k1/7B1/5p3/6N2/9/9/9/9/9 b G 1"
+    "description": "第42問 【問題図は☗１二歩まで】",
+    "initialSfen": "7sk/6+R1P/9/8p/4G3r/3B5/9/9/9 b b3g3s4n4l16p 1"
   },
   {
     "id": 49,
     "title": "第49問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "6g1l/6S1k/7R1/7P1/9/9/9/9/9 b r2b3g3s4n3l17p 1"
+    "description": "第32問 【問題図は☗１三歩まで】",
+    "initialSfen": "R+B6l/6lpk/5N2P/6pS1/9/9/9/9/8+b w r4g3s3n2l15p 1"
   },
   {
     "id": 50,
     "title": "第50問",
-    "description": "ファイルから追加された問題です。",
-    "initialSfen": "5r2l/6S1k/7R1/7P1/9/9/9/9/9 b 2b4g3s4n3l17p 1"
+    "description": "第47問 【問題図は☗１三香まで】",
+    "initialSfen": "5RSSk/6p2/6b1L/8p/9/9/9/9/9 w Lrb4g2s4n2l16p 1"
   }
 ]
