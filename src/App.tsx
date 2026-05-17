@@ -971,19 +971,26 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
     
     try {
       const newShogi = new Shogi();
+      
+      // 常に後手番からスタートするようにSFENを書き換える
+      let initialSfen = currentProblem.initialSfen;
+      if (initialSfen.includes(' b ')) {
+        initialSfen = initialSfen.replace(' b ', ' w ');
+      }
+      
       try {
         if (newShogi.initializeFromSFENString) {
-          newShogi.initializeFromSFENString(currentProblem.initialSfen);
+          newShogi.initializeFromSFENString(initialSfen);
         } else if (newShogi.initializeFromSFEN) {
-          newShogi.initializeFromSFEN(currentProblem.initialSfen);
+          newShogi.initializeFromSFEN(initialSfen);
         }
       } catch (sfenError) {
-        console.error("Invalid SFEN:", currentProblem.initialSfen);
+        console.error("Invalid SFEN:", initialSfen);
         // Initialize with empty board if SFEN is invalid
         if (newShogi.initializeFromSFENString) {
-          newShogi.initializeFromSFENString("9/9/9/9/9/9/9/9/9 b - 1");
+          newShogi.initializeFromSFENString("9/9/9/9/9/9/9/9/9 w - 1");
         } else {
-          newShogi.initializeFromSFEN("9/9/9/9/9/9/9/9/9 b - 1");
+          newShogi.initializeFromSFEN("9/9/9/9/9/9/9/9/9 w - 1");
         }
         setAlertDialog(`問題「${currentProblem.title}」の盤面データが不正なため、空の盤面を表示しています。「盤面を修正」から修正してください。`);
       }
@@ -991,9 +998,9 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
       setShogi(newShogi);
       setSelectedSquare(null);
       setSelectedHandPiece(null);
-      setMessage('あなたの番です。');
+      setMessage('後手の手を入力してください。');
       setIsGameOver(false);
-      setIsGoteManualEntry(false);
+      setIsGoteManualEntry(true);
       setMoveHistory([]);
       setError(null);
       setPendingPromotionMove(null);
@@ -1006,7 +1013,7 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
 
   const handleChangeGoteMove = useCallback(() => {
     if (moveHistory.length === 0) return;
-    const isSentesTurn = moveHistory.length % 2 === 0;
+    const isSentesTurn = moveHistory.length % 2 !== 0;
     
     if (!isSentesTurn) return;
 
@@ -1668,7 +1675,7 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
             <div className="w-full max-w-full sm:max-w-[420px] flex flex-row px-0 sm:px-2">
               <div className="w-full bg-amber-900/5 p-1 sm:p-3 rounded-lg sm:rounded-xl border border-amber-900/10 min-h-[40px] flex flex-row items-center gap-2 sm:gap-4">
                 <h3 className="text-xs sm:text-sm font-bold text-amber-900/60 whitespace-nowrap ml-1 sm:ml-0">先手</h3>
-                <div className="flex-1 flex flex-row justify-start flex-wrap">
+                <div className="flex-1 flex flex-row justify-end flex-wrap">
                   {renderHand(Color.Black)}
                 </div>
               </div>
@@ -1708,8 +1715,8 @@ SFEN形式の例: 7nl/1R3sk2/5pppp/9/9/9/9/9/9 b GS 1
               </button>
               <button
                 onClick={handleChangeGoteMove}
-                disabled={moveHistory.length === 0 || moveHistory.length % 2 !== 0}
-                className={`flex-1 flex items-center justify-center bg-gray-600 text-white py-1.5 sm:py-3 rounded-lg sm:rounded-xl font-bold text-xs sm:text-base transition-colors shadow-sm active:scale-95 ${moveHistory.length === 0 || moveHistory.length % 2 !== 0 ? 'opacity-50 cursor-not-allowed' : 'hover:bg-gray-700'}`}
+                disabled={moveHistory.length === 0 || moveHistory.length % 2 === 0}
+                className={`flex-1 flex items-center justify-center bg-gray-600 text-white py-1.5 sm:py-3 rounded-lg sm:rounded-xl font-bold text-xs sm:text-base transition-colors shadow-sm active:scale-95 ${moveHistory.length === 0 || moveHistory.length % 2 === 0 ? 'opacity-50 cursor-not-allowed' : 'hover:bg-gray-700'}`}
               >
                 後手の手を変える
               </button>
